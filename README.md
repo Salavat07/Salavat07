@@ -14,7 +14,7 @@ I work across software development, corporate IT, and business automation — bu
 
 ### Current work
 
-I currently work at **Caravan Logistics**, where my responsibilities include software development, corporate systems administration, automation, web infrastructure and IT operations.
+I currently work in logistic company, where my responsibilities include software development, corporate systems administration, automation, web infrastructure and IT operations.
 
 ### Education
 
